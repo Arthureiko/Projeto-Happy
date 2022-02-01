@@ -13,7 +13,7 @@ function Landing() {
 
         <main>
           <h1>Leve felicidade para o mundo!</h1>
-          <p>Visite orfanatos e mude o dia de muitas crianças.</p>
+          <p>Visite orfanatos e mude o dia de muitas crianças, bla.</p>
         </main>
 
         <div className="location">
